@@ -1,5 +1,5 @@
-<TEI> 
-    <teiHeader> 
+<TEI> #объявляем tei
+    <teiHeader>  #информация об источнике
         <fileDesc>
             <titleStmt>
                <title>Кавказские повести</title>

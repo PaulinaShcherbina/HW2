@@ -1,5 +1,16 @@
-<TEI> 
-   <text><speech>
+<TEI> #объявляем tei
+<teiHeader> #информация об источнике
+<fileDesc>
+<titleStmt>
+<title>ЕЛИСЕЙ, ИЛИ РАЗДРАЖЕННЫЙ ВАКХ</title>
+</titleStmt>
+<respStmt>
+<persName>Щербина Полина</persName>
+<resp> выделение в тексте персоналий/мест</resp>
+</respStmt>
+</fileDesc>
+</teiHeader>
+   <text>
 Не паки ли  <persName>Зевес</persName> в громах к  <persName>Данае</persName> сходит?
 Не паки ль на нее он золотом дождит,
 Да нового на свет <persName>Персея</persName> породит?
@@ -114,5 +125,5 @@
 Там склянки видит он, бутылки видит там,
 
 124
-</speech></text>
+</text>
 </TEI>
